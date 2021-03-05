@@ -621,13 +621,13 @@ Table of content:
   }
 
     .logo img {
-        height: 55px;
+        /* height: 55px; */
         left: 0;
         max-height: 60px;
         max-width: 240px;
         position: absolute;
         top: 50%;
-        width: 107px;
+        /* width: 107px; */
         transform: translateY(-50%);
         -moz-transform: translateY(-50%);
         -webkit-transform: translateY(-50%);
